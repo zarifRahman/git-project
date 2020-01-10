@@ -1,4 +1,4 @@
 
-const Zarif = () => {
-  console.log("Hello Zarif");
+const y = () => {
+  console.log("Hello Y consoled again");
 }
