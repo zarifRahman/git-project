@@ -1,4 +1,4 @@
 
-const x = () => {
-  console.log("Hello X consoled again");
+const y = () => {
+  console.log("Hello Y consoled again");
 }
